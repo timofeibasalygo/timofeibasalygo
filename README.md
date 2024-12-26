@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="125" src="https://i.pinimg.com/736x/b7/fa/3b/b7fa3bd4e69c238c35dddd3f5d0a5346.jpg"  />
+<img align="left" height="150" src="https://i.pinimg.com/736x/b7/fa/3b/b7fa3bd4e69c238c35dddd3f5d0a5346.jpg"  />
 
 ###
 
@@ -21,7 +21,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
