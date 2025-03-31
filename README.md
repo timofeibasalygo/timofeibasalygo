@@ -1,17 +1,3 @@
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-  <img height="150" src="https://i.pinimg.com/736x/b7/fa/3b/b7fa3bd4e69c238c35dddd3f5d0a5346.jpg"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
 ###
 
 <br clear="both">
